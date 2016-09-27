@@ -25,7 +25,7 @@ import net.daum.mf.map.api.MapView;
  */
 
 public class DetailFieldActivity extends AppCompatActivity {
-    private static final String API_KEY = "4604576ac44bcea4161f42483d866881";
+    private static final String API_KEY = "b1916dd93f050cef50d539ee3922be1e";
     private double latitude;
     private double longitude;
     private MapView mapView;
